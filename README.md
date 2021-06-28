@@ -2,7 +2,7 @@
 - 👀 I’m interested in building robot for real-time application system
   - agriculture automation
   - smart farming
-  - all terrain mobile robot
+  - all type of mobile robot
 - 🌱 I’m currently learning machine vision system
 - 💞️ I’m developing robotic system using ROS architecture
   - arm64 system
