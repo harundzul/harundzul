@@ -1,12 +1,19 @@
 - 👋 Hi, I’m @harundzul
-- 👀 I’m interested in building robot for real-time application system
+
+- 👀 My interest is:-
   - agriculture automation
   - smart farming
-  - all type of mobile robot
-- 🌱 I’m currently learning machine vision system
-- 💞️ I’m developing robotic system using ROS architecture
-  - arm64 system
-  - amd64 system
+  - mobile robot services
+  - ML algorithm
+
+- 🎯 Currently Learning:-
+  - Machine Vision System
+  - Machine Learning
+ 
+- 💞️ My developed robotic system using ROS architecture:-
+  - Outdoor mobile robot
+  - Obstacle avoidance indoor mobile robot
+ 
 - 📫 https://www.linkedin.com/in/harun-dzulquornain/ 
 
 <!---
