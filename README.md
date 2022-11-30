@@ -4,11 +4,14 @@
   - agriculture automation
   - smart farming
   - mobile robot services
-  - ML algorithm
+  - Machine Learning
+  - Data Science
 
 - 🎯 Currently Learning:-
   - Machine Vision System
-  - Machine Learning
+  - Machine Learning framework
+    - Scikit-Learn
+    - Tensorflow
  
 - 💞️ My developed robotic system using ROS architecture:-
   - Outdoor mobile robot
